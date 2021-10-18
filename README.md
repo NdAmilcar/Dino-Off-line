@@ -3,7 +3,7 @@ Dino hecho con js,html y css.
 Funciones sencillas.
 Css básico.
 
-![dino](http://url/to/img.png)
+![dino](https://github.com/NdAmilcar/Dino-Off-line/blob/main/img/DInoJs.png)
 
 
 
